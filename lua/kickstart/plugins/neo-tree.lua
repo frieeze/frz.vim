@@ -21,7 +21,7 @@ return {
       },
       window = {
         mappings = {
-          ['<C-b>'] = 'close_window',
+          ['<leader>b'] = 'close_window',
         },
       },
     },
